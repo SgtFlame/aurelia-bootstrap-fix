@@ -1,0 +1,23 @@
+{
+  "name": "aurelia-bootstrap-fix",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 fix for Aurelia",
+  "main": "dist/aurelia-bootstrap-fix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgtFlame/aurelia-bootstrap-fix.git"
+  },
+  "keywords": [
+    "Aurelia",
+    "Bootstrap4"
+  ],
+  "author": "Tony Richards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SgtFlame/aurelia-bootstrap-fix/issues"
+  },
+  "homepage": "https://github.com/SgtFlame/aurelia-bootstrap-fix#readme"
+}
