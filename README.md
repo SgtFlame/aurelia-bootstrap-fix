@@ -5,7 +5,7 @@ Bootstrap 4 has a dependency on Tether, but it assumes Tether is set as window.T
 ## Installation
 
 ```
-npm install https://github.com/SgtFlame/aurelia-bootstrap-fix.git --save
+npm install aurelia-bootstrap-fix --save
 ```
 Add this dependency to aurelia.json.
 
